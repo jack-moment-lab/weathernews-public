@@ -1,9 +1,9 @@
-# yng4check-news
+# weathernews-public
 
 Public news feed for the YNG4check SDK message box. GitHub Actions refreshes one calm top headline per country every 30 minutes.
 This repository contains only public headlines. No code or data of the SDK.
 
-- File: `https://raw.githubusercontent.com/mack-hey/yng4check-news/main/news/<COUNTRY>.json` (for example `JP.json`, `US.json`)
+- File read by the SDK (0.1.33+): `https://raw.githubusercontent.com/jack-moment-lab/weathernews-public/main/news/<COUNTRY>.<lang>.json` (`lang` = `en` or `ja`, for example `US.en.json`, `JP.ja.json`). `news/<COUNTRY>.json` is kept for older SDK versions.
 - Format: `{ "country", "title", "source", "published", "updated_at" }`
 - Countries: US, JP, GB, CA, AU, IN, SG, TH, VN. KH (Cambodia) uses the US English headline (no Cambodia edition).
 - Headlines about violence, disasters, deaths and the military are skipped.
