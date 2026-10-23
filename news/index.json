@@ -1,7 +1,37 @@
 {
- "updated_at": "2026-10-23T17:31:41.931Z",
+ "updated_at": "2026-10-23T17:59:19.224Z",
  "countries": [
+  "US",
+  "JP",
+  "GB",
+  "CA",
+  "AU",
+  "IN",
+  "SG",
+  "TH",
+  "VN",
   "KH"
  ],
- "files": []
+ "files": [
+  "US.en",
+  "US.ja",
+  "JP.en",
+  "JP.ja",
+  "GB.en",
+  "GB.ja",
+  "CA.en",
+  "CA.ja",
+  "AU.en",
+  "AU.ja",
+  "IN.en",
+  "IN.ja",
+  "SG.en",
+  "SG.ja",
+  "TH.en",
+  "TH.ja",
+  "VN.en",
+  "VN.ja",
+  "KH.en",
+  "KH.ja"
+ ]
 }
