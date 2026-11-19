@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T07:12:23.646Z",
+ "updated_at": "2026-11-19T16:43:56.510Z",
  "countries": [
   "US",
   "JP",
@@ -16,6 +16,7 @@
   "US.en",
   "US.ja",
   "JP.en",
+  "JP.ja",
   "GB.en",
   "GB.ja",
   "CA.en",
@@ -25,6 +26,7 @@
   "IN.en",
   "IN.ja",
   "SG.en",
+  "SG.ja",
   "TH.en",
   "TH.ja",
   "VN.en",
